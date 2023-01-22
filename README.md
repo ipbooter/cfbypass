@@ -1,0 +1,2 @@
+# cfbypass
+https://stresser.sx
